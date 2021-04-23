@@ -8,5 +8,5 @@ ___
 
 -	K-Means outputs:
 
-* The centroids (center points) of each cluster.
-* The clustering assignments where each point is assigned to exactly one cluster. 
+** The centroids (center points) of each cluster.
+** The clustering assignments where each point is assigned to exactly one cluster. 
