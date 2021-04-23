@@ -1,0 +1,22 @@
+########################################################################
+#
+# Brunel University London
+# Department of Computer Science
+# CS3609 Cybersecurity
+# Lab - Cyber Security Analytics
+# Natalie Clewley, Panos Louvieris
+# 17th November 2020
+#
+# KDD Cup 1999 Dataset: http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
+#
+# LAB SETUP INSTRUCTIONS
+#
+########################################################################
+
+## set up scripts
+
+# install required packages
+install.packages(c("cluster","C50","e1071","ggplot2"))
+
+
+
